@@ -74,12 +74,12 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──「 [Akeno](https://telegra.ph/file/aff019b0c26c2dfa3921b.jpg) 」──
+──「 [Mordred](https://telegra.ph/file/aff019b0c26c2dfa3921b.jpg) 」──
 
 *Hello!!*
 *I am Akeno Bot group management. I'm a bot with the Anime High School DXD theme.*
 
-*Maintenance By* [Rey](https://t.me/helzrip).
+*Maintenance By* [Arul](https://t.me/skyiarul).
 *Project By* [R Bot Creator](https://t.me/joinchat/XcgxzYB0WKQ3Yjll).
 *Thank you for using this bot! Hit* /help   
 """
@@ -359,7 +359,7 @@ def yone_about_callback(update, context):
     query = update.callback_query
     if query.data == "yone_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *Akeno*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *Mordred*, a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -367,7 +367,7 @@ def yone_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_akeno's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://t.me/erosei_1).
+                 \nHere is the [💾Repository](https://t.me/skyiarul).
                  \n\nIf you have any question about Akeno, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -394,8 +394,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Kanata*
-                 \nHere is the [Source Code](https://github.com/sophiashirashaki) .""",
+            text=""" Hi..🤗 I'm *Mordred*
+                 \nHere is the [Source Code](https:xxnx.com) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
