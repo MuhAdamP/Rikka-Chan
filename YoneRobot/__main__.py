@@ -77,7 +77,7 @@ PM_START_TEXT = """
 ──「 [Mordred](https://telegra.ph/file/aff019b0c26c2dfa3921b.jpg) 」──
 
 *Hello!!*
-*I am Akeno Bot group management. I'm a bot with the Anime High School DXD theme.*
+*I am Mordred Bot group management. I'm a bot with the Anime High School DXD theme.*
 
 *Maintenance By* [Arul](https://t.me/skyiarul).
 *Project By* [R Bot Creator](https://t.me/joinchat/XcgxzYB0WKQ3Yjll).
